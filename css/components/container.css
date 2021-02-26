@@ -1,0 +1,39 @@
+.container-background {
+	width: 1000px;
+	margin: 0px auto;
+  text-align: center;
+  padding-bottom: 180px;
+}
+
+.container-btn {
+  width: 1465px;
+  margin: 0px auto;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.container-main {
+  width: 1000px;
+  margin: 0px auto;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.container-main h2 {
+  margin-top: 50px;
+}
+
+@media (max-width: 960px) {
+  .container-background, .container-btn, .container-main {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container-background, .container-btn, .container-main {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container-background, .container-btn, .container-main {
+    width: 300px;
+  }

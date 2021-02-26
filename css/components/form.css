@@ -1,0 +1,35 @@
+form	{
+	display: inline-flex;
+	align-items: center; 
+}
+
+label {
+	padding-right: 5px;
+}
+
+input#search{
+	border-radius: 100px;
+	background-color: #6D71DD;
+	color: white;
+	padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+	font-weight: bolder;
+	border-style: none;
+}
+
+input#search:hover {
+	background-color: black;
+}
+
+input#fname {
+	margin-right: 20px;
+	height: 30px;
+	border-radius: 4px;
+}
+
+input#lname {
+	margin-right: 20px;
+	height: 30px;
+	border-radius: 4px;
+}

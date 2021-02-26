@@ -1,0 +1,27 @@
+.btn-blue {
+	background-color: #6D71DD;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: white;
+    font-weight: normal;
+    font-family: 'roboto', sans-serif;
+}
+
+.btn-cards {
+	background-color: #6D71DD;
+    padding: 6px 9px;
+    border-radius: 4px;
+    color: white;
+    font-weight: normal;
+    font-family: 'roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.btn-sign {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 200px;
+    flex-wrap: wrap;
+}
